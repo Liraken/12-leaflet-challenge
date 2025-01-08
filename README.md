@@ -1,18 +1,19 @@
 # leaflet-challenge
 
-## File Location
-- In Images you can find some instructional images I used in the readme
-- *******************************************
-- *******************************************
-- *******************************************
-- In 'Starter_Code' you can find the blank unedited starter files
-- In 'Refrences' you can find the two repositories I refrenced for this assignment
-	I got some major help to getting started from AshelynAllred whose repo is saved in 	refrences/AshelynAllred
+## **File Locations**
+- **`Images/`**: Contains screenshots and visual assets used in this project and README.
+- **`References/`**: Includes links or files from repositories referenced during the assignment.
+- **`Starter_Code/`**: Contains blank starter files provided at the beginning of the assignment.
+- **``*static/*: Contains public assets like JavaScript, stylesheets, and media files.
+- **`index.html`**: Contains the framework for the site.
+- **`Notes/`**: Contains any relevant notes if any exist.
 
-## Sources
-- ******************
-- ******************
-- ********************
+## Sources / References
+* Header image: NA
+* Repos used as reference: 
+  * https://github.com/AFKAMI/leaflet_challenge
+  * https://github.com/ivarvani/leaflet-challenge
+  * https://github.com/AshelynAllred/leaflet-challenge
 
 ## Background 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
